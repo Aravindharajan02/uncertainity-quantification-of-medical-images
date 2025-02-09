@@ -20,8 +20,7 @@ A deep learning-based web application for analyzing brain MRI scans to detect tu
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/brain-tumor-mri-analysis.git
-cd brain-tumor-mri-analysis
+git clone https://github.com/Aravindharajan02/uncertainity-quantification-of-medical-images
 ```
 
 2. Create a virtual environment (recommended):
@@ -38,12 +37,8 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. First, train the model:
-```bash
-python train.py
-```
 
-2. Run the Streamlit app:
+1. Run the Streamlit app:
 ```bash
 streamlit run app.py
 ```
